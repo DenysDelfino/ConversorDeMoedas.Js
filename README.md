@@ -9,6 +9,6 @@
 <p>Esse conversor só converte da moeda Real(BRL) para o Dólar Americano(USD), Euro(EUR) ou Bitcoin(BTC)</p>
 <p>Por ser um projeto simples, os valores de cotações não são atualizados diariamente, mas os valores são do dia 18/03/2023</p>
 <br>
-Link para acessar o conversor <a href="https://denysdelfino.github.io/meu-primeiro-projeto-javascript-conversorDeMoedas./" /a>
+ <h2><a href="https://denysdelfino.github.io/ConversorDeMoedas.Js/">Conversor de Moeda</h2> 
   
 
